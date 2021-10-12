@@ -1,0 +1,3 @@
+Kodowanie oryginalnych danych:
+Kolumna nr 1.  - odpowiednio kod stacji (MX17004),rok i miesiąc uzyskania wyniku(195508 - sierpień roku 1955),kod danych(TMAX/TMIN/PRCP)
+Kolejne kolumny danych - odpowiednie dni poszczególnych miesięcy w których wykonano powiamry temperatur, dla miesiący mających mniej niż 31 dni kolumny te zostały uzupełnione o odczyt z dnia ostatniego.
