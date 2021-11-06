@@ -1,0 +1,7 @@
+Kodowanie oryginalnych danych:
+Kolumna 1 -  ID - numer porządkowy poszczególnych wpisów danych
+Kolumna 2 - Dni od zakupu - ilość dni od dokanania zakupu odkurzacza przez klienta
+Kolumna 3 - Marka - Marka zakupionego odkurzacza
+Kolumna 4 - Wiek kupującego - Wiek osoby dokonującej zakupu
+Kolumna 5 - Płeć kupującego - Płeć osoby dokonującej zakupu z rozróżnieniem na Kobiete, Mężczyzne lub brak danych
+Kolumna 6 - Ocena - Wartość oceny zakupionego produktu
